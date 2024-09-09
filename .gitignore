@@ -1,0 +1,41 @@
+# Node/Yarn dependencies
+node_modules/
+
+# Compiled CSS files (they can be generated from SCSS)
+css/*.css
+css/*.map
+
+# Sass cache files
+.sass-cache/
+
+# Yarn lockfile (optional, if you want to exclude it)
+yarn.lock
+
+# Temporary files and logs
+*.tmp
+*.log
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific directories and files (e.g., PHPStorm, VSCode)
+.idea/
+.vscode/
+
+# Cache and session files (Moodle-specific)
+cache/
+localcache/
+sessions/
+temp/
+
+# Environment-specific configuration files
+.env
+
+# Composer dependencies (if using Composer for PHP libraries)
+vendor/
+
+# Build directories (if using build tools like Webpack, Gulp, etc.)
+dist/
+build/
