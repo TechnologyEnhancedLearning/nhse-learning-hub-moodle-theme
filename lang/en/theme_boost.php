@@ -17,8 +17,8 @@
 /**
  * Language file.
  *
- * @package   theme_boost
- * @copyright 2016 Frédéric Massart
+ * @package   nhs-learning-hub
+ * @copyright 2024 NHS England
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -31,18 +31,18 @@ $string['brandcolor'] = 'Brand colour';
 $string['brandcolor_desc'] = 'The accent colour.';
 $string['bootswatch'] = 'Bootswatch';
 $string['bootswatch_desc'] = 'A bootswatch is a set of Bootstrap variables and css to style Bootstrap';
-$string['choosereadme'] = 'Boost is a modern highly-customisable theme. This theme is intended to be used directly, or as a parent theme when creating new themes utilising Bootstrap 4.';
-$string['configtitle'] = 'Boost';
+$string['choosereadme'] = 'NHS Learning Hub is based on the <a href="https://service-manual.nhs.uk/design-system">NHS Design System</a> and the <a href="https://github.com/TechnologyEnhancedLearning/TELDesignSystem">NHS England Technology Enhanced Learning Design System</a>.';
+$string['configtitle'] = 'NHS Learning Hub';
 $string['generalsettings'] = 'General settings';
 $string['loginbackgroundimage'] = 'Login page background image';
 $string['loginbackgroundimage_desc'] = 'The image to display as a background for the login page.';
 $string['nobootswatch'] = 'None';
-$string['pluginname'] = 'Boost';
+$string['pluginname'] = 'NHS Learning Hub';
 $string['presetfiles'] = 'Additional theme preset files';
-$string['presetfiles_desc'] = 'Preset files can be used to dramatically alter the appearance of the theme. See <a href="https://docs.moodle.org/dev/Boost_Presets">Boost presets</a> for information on creating and sharing your own preset files, and see the <a href="https://moodle.net/search?q=boost+presets">Presets repository</a> for presets that others have shared.';
+$string['presetfiles_desc'] = 'Preset files can be used to dramatically alter the appearance of the theme. See <a href="https://docs.moodle.org/dev/Boost_Presets">NHS Learning Hub presets</a> for information on creating and sharing your own preset files, and see the <a href="https://moodle.net/search?q=boost+presets">Presets repository</a> for presets that others have shared.';
 $string['preset'] = 'Theme preset';
 $string['preset_desc'] = 'Pick a preset to broadly change the look of the theme.';
-$string['privacy:metadata'] = 'The Boost theme does not store any personal data about any user.';
+$string['privacy:metadata'] = 'The NHS Learning Hub theme does not store any personal data about any user.';
 $string['rawscss'] = 'Raw SCSS';
 $string['rawscss_desc'] = 'Use this field to provide SCSS or CSS code which will be injected at the end of the style sheet.';
 $string['rawscsspre'] = 'Raw initial SCSS';
