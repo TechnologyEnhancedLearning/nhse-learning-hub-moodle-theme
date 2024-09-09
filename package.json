@@ -1,0 +1,16 @@
+{
+  "name": "nhs-learning-hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.78.0"
+  },
+  "dependencies": {
+    "nhsuk-frontend": "^8.3.0"
+  },
+  "scripts": {
+    "build:sass": "sass scss:css --no-source-map",
+    "watch:sass": "sass --watch scss:css --no-source-map"
+  }
+}
