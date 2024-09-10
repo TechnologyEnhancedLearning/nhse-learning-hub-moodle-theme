@@ -39,3 +39,4 @@ vendor/
 # Build directories (if using build tools like Webpack, Gulp, etc.)
 dist/
 build/
+*.css
