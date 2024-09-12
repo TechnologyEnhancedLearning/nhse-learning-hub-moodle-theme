@@ -20,7 +20,7 @@ To watch the changes to .scss files for hot loading changes during dev run:
 In future, we will be implementing GitHub self-hosted runner actions to publish changes merged to this repository to our Moodle environment. Until then, we should publish the nhs-learning-hub folder directly to the Moodle environment:
 
 **1. Prepare Your Theme Directory**
-Ensure your modified theme is in a folder with the correct name (this should be the name of your theme) and contains all necessary files: config.php, version.php, theme.scss (or other CSS/Sass files), layout files, and any other assets.
+- Ensure your modified theme is in a folder with the correct name (this should be the name of your theme) and contains all necessary files: config.php, version.php, theme.scss (or other CSS/Sass files), layout files, and any other assets.
 
 **2. Place the Theme in the Moodle Theme Directory**
 - Copy your theme's folder into the theme directory of your Moodle installation.
@@ -36,7 +36,7 @@ You can use FileZilla FTP/SFTP or directly copy the folder into the theme direct
 **4. Install the Theme via Moodle**
 - Log in as an Admin to your Moodle site.
 - Navigate to Site administration > Notifications.
-Moodle will detect the new theme and prompt you to install or upgrade the site. Follow the steps to complete the installation.
+- Moodle will detect the new theme and prompt you to install or upgrade the site. Follow the steps to complete the installation.
 
 **5. Activate the Theme**
 Once installed, activate the theme:
